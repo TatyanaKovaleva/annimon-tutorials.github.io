@@ -1,3 +1,4 @@
+---------------
 Resume Template
 ---------------
 This is a simple resume template based around bootstrap. 
